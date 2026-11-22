@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "build": 1,
+  "build": 2,
   "apk_url": "https://github.com/geeemy/rajhi-mushaf-updates/releases/latest/download/rajhi-mushaf-demo.apk",
   "mandatory": false,
-  "notes_ar": "لا يوجد تحديث الآن."
+  "notes_ar": "لحدث يا برنس."
 }
